@@ -19,3 +19,11 @@ The floating cards use percentage offsets, so on very small screens they can ove
 Tech used
 HTML
 Tailwind CSS (CDN)
+
+
+How to run
+
+1. Download or clone the project.
+2. Open the folder in VS Code.
+3. Right-click `index.html` and choose Open with Live Server
+   (or just double-click the file to open it in your browser).
